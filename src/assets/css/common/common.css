@@ -1,0 +1,18 @@
+.cursor{
+    cursor: pointer;
+}
+
+.iq-fontweight{
+    font-weight: bold;
+}
+
+.iq-fontsizemini{
+    font-size: 14px !important;
+}
+.iq-fontsizenormal{
+    font-size: 16px !important;
+}
+.iq-fontsizebig{
+    font-size: 18px !important;
+}
+

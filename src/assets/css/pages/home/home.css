@@ -1,0 +1,19 @@
+
+.home{
+    height: 100%;
+}
+.home .home-con{
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+}
+.home .home-con .el-container{
+    flex: 1 1 auto;
+    overflow: hidden;
+}
+.home .el-aside{
+    overflow: hidden;
+}
+
+
